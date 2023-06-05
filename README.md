@@ -13,6 +13,8 @@ Em cada pasta deste repositório está uma análise de dados de um conjunto de d
     - O conjunto de dados apresenta filmes lançados entre 2007 e 2011. Ele possui 5 atributos, 2 quantitativos e 3 categóricos. Os quantitativos são Budget_M e Worldwide_Gross_M, que correspondem ao orçamento do filme e a bilheteria mundial que o filme obteve em milhões de dólares. Os atributos categóricos são Film, Genre e Year, que representam o nome do filme, o gênero e o ano em que foi lançado.
 - [compras-Ecommerce](https://github.com/carolinari/analise-de-dados/tree/main/compras-Ecommerce).
     - O conjunto de dados usado nessa análise exploratória é composto por dados sintéticos, relacionados a algumas compras feitas pela Amazon.
+- [perfil-cliente-ideal](https://github.com/carolinari/analise-de-dados/tree/main/perfil-cliente-ideal).
+    - Com o objetivo de aumentar o faturamento e o lucro da sua empresa, a diretoria quer conseguir identificar quem é o cliente ideal para seus produtos, baseado no histórico de compras dos clientes. Para isso, ela fez um trabalho de classificar os clientes com uma nota de 1 a 100. Só que agora, sobrou para você conseguir, a partir dessa nota, descobrir qual o perfil de cliente ideal da empresa.
 - [salarios-SaoFrancisco](https://github.com/carolinari/analise-de-dados/tree/main/salarios-SaoFrancisco)
     - O conjunto de dados usado é o Dataset SF Salaries Dataset da Kaggle. Esses dados contêm os nomes, cargo e remuneração dos funcionários da cidade de São Francisco anualmente de 2011 a 2014.
 - [tips](https://github.com/carolinari/analise-de-dados/tree/main/tips)
